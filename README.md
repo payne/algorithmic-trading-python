@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository
+This repository has a companion article and YouTube video.  See https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
 
 ## Course Outline
 
